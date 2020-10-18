@@ -1,3 +1,19 @@
+The comments and information for Weatherpy are included in with the notebook instead of this README.
+
+Vacationpy uses the csv output file that Weatherpy creates.  It does a google api search
+  for the first 10 hotels within 5000 meters of the geolocation in the dataframe.  If a hotel is
+  not found, the program just puts "No Hotel" as a hotel name using the try: except: statements.
+
+
+
+
+
+
+
+
+
+I KEPT THE INSTRUCTIONS IN THIS README......
+
 # Python API Homework - What's the Weather Like?
 
 ## Background
