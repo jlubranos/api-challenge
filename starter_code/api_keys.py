@@ -1,6 +1,6 @@
 #This file holds both API keys for Api-challenge homework
 # OpenWeatherMap API Key
-weather_api_key = "724c78ce6073e43bcb3267a84c571509"
+weather_api_key = "add your key"
 
 # Google API Key
-g_key = "AIzaSyCmeIBtUaKyfSw2pNHYvs8MZhlYx0r2g9k"
+g_key = "add your key"
